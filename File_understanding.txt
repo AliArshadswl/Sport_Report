@@ -71,33 +71,3 @@ When I ask for LaTeX output:
 * Section titles are controlled by template and should not be overridden.
 * Floating icon boxes may break layout — use tcolorbox with stable margins.
 
----
-
-# 🎯 **Paste the above block at the start of ANY future ChatGPT conversation.**
-
-This gives ChatGPT complete awareness of:
-
-* your structure
-* your constraints
-* your customization rules
-* your visual requirements
-
-Just start any new chat like this:
-
----
-
-**"Before we begin, here is the template structure I am using:"**
-*(paste the block)*
-
----
-
-ChatGPT will behave exactly like it does now — without you explaining again.
-
----
-
-# If you want, I can also:
-
-✅ Generate a README.md file describing your entire project setup
-→ useful for collaborators or future assistants.
-
-Just say: **"Generate README"**
