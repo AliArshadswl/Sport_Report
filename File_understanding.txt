@@ -1,24 +1,4 @@
-Great — I'm glad everything is working now.
-To make sure **future ChatGPT sessions** understand your LaTeX setup *instantly* (without you repeating everything), you can use a simple technique:
 
----
-
-# ⭐ **Create a "project description" message you can paste at the beginning of any new chat.**
-
-This acts as a *system prompt* telling ChatGPT:
-
-* what template you are using
-* where files are located
-* which files control design
-* how to modify the project safely
-
----
-
-# ✅ Here is the exact message you should save and paste next time:
-
-**COPY & SAVE THIS**
-
----
 
 ## 📌 **PatchHAR-Sports LaTeX Project Setup (For ChatGPT)**
 
